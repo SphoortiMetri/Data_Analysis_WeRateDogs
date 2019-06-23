@@ -26,7 +26,7 @@ Gather more data from corresponding tweet_ids using twitter API
 A table full of image predictions (the top three only) alongside each tweet ID, image URL, and the image number that corresponded to the most confident prediction (numbered 1 to 4 since tweets can have up to four images).
 
 
-#### What software do I need? 
+#### What software do I need to run this code? 
 
 1. pandas
 2. NumPy
